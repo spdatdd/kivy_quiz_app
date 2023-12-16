@@ -1,0 +1,197 @@
+[
+    {
+        "ten_bai_thi": "Trắc nghiệm Toán 10 kết nối học kì II ",
+        "ket_qua": "1/5",
+        "danh_sach_cau_hoi": [
+            {
+                "cau_hoi": " Câu 1: Phương trình y = x2 - m nghiệm đúng với mọi x thuộc R khi:",
+                "dap_an": [
+                    "B. m = -2               "
+                ],
+                "dap_an_chinh_xac": [
+                    "D. m > 2"
+                ]
+            },
+            {
+                "cau_hoi": " Câu 2: Câu sau có phải mệnh đề đúng không? 13 là số nguyên tố",
+                "dap_an": [
+                    "B. Không"
+                ],
+                "dap_an_chinh_xac": [
+                    "A. Có"
+                ]
+            },
+            {
+                "cau_hoi": " Câu 3: Cho hai câu sau:  P: “Tam giác ABC là tam giác vuông tại A” Q: “Tam giác ABC có AB2 + AC2 = BC2 “. Hãy phát biểu câu ghép có dạng “Nếu P thì Q”.",
+                "dap_an": [
+                    "B. Nếu tam giác ABC là tam giác vuông tại A thì tam giác ABC có AB2 + AC2 = BC2."
+                ],
+                "dap_an_chinh_xac": [
+                    "B. Nếu tam giác ABC là tam giác vuông tại A thì tam giác ABC có AB2 + AC2 = BC2."
+                ]
+            },
+            {
+                "cau_hoi": " Câu 4: Xét hai câu sau: P: “Phương trình bậc hai ax^2 + bx + c = 0 có hai nghiệm phân biệt” Q: “Phương trình bậc hai ax^2+ bx + c = 0 có biệt thức Δ = b^2 − 4ac > 0”. Phát biểu mệnh đề P ⇒ Q là:",
+                "dap_an": [
+                    "B. “Nếu phương trình bậc hai ax^2 - bx + c = 0 có hai nghiệm phân biệt thì phương trình bậc hai ax^2+ bx + c = 0 có biệt thức Δ = b^2 - 4ac >0”"
+                ],
+                "dap_an_chinh_xac": [
+                    "A. “Nếu phương trình bậc hai ax^2 + bx + c = 0 có hai nghiệm phân biệt thì phương trình bậc hai ax^2+ bx + c = 0 có biệt thức Δ = b^2 - 4ac >0”"
+                ]
+            },
+            {
+                "cau_hoi": " Câu 5: Mệnh đề sau đúng hay sai? “Một số tự nhiên chia hết cho 5 nếu số đó có chữ số tận cùng bằng 0 hoặc 5 và ngược lại”",
+                "dap_an": [],
+                "dap_an_chinh_xac": [
+                    "A. Đúng"
+                ]
+            }
+        ]
+    },
+    {
+        "ten_bai_thi": "Trắc nghiệm Toán 10 kết nối bài 1 Mệnh đề ",
+        "ket_qua": "0/20",
+        "danh_sach_cau_hoi": [
+            {
+                "cau_hoi": " Câu 1: Với giá trị thực nào của x mệnh đề chứa biến P(x): “2x^2– 1 < 0” là mệnh đề đúng",
+                "dap_an": [],
+                "dap_an_chinh_xac": [
+                    "A.0"
+                ]
+            },
+            {
+                "cau_hoi": " Câu 2: Cho mệnh đề A: “∀ x∈ R,x^2-x+7<0\" . Mệnh đề phủ định của A là:",
+                "dap_an": [],
+                "dap_an_chinh_xac": [
+                    "D. A:“∃ x∈ R,x^2-x+7≥ 0\""
+                ]
+            },
+            {
+                "cau_hoi": " Câu 3: Trong các mệnh đề sau đây, mệnh đề nào có mệnh đề đảo là đúng?",
+                "dap_an": [],
+                "dap_an_chinh_xac": [
+                    "C. Nếu a chia hết cho 3 thì a chia hết cho 9;"
+                ]
+            },
+            {
+                "cau_hoi": " Câu 4: Trong các câu sau, có bao nhiêu câu là mệnh đề? a) Hãy đi nhanh lên! b) Hà Nội là thủ đô của Việt Nam. c) 4 + 5 + 7 = 15. d) Năm 2018 là năm nhuận.",
+                "dap_an": [],
+                "dap_an_chinh_xac": [
+                    "B.3"
+                ]
+            },
+            {
+                "cau_hoi": " Câu 5: Mệnh đề phủ định của mệnh đề “∀ x∈ R,x^2+x+5>0\" là:",
+                "dap_an": [],
+                "dap_an_chinh_xac": [
+                    "A. ∃ x∈ R,x^2+x+5≤ 0"
+                ]
+            },
+            {
+                "cau_hoi": " Câu 6: Mệnh đề nào sau đây sai?",
+                "dap_an": [],
+                "dap_an_chinh_xac": [
+                    "B. Tam giác ABC là tam giác đều ⇔ A=60^∘"
+                ]
+            },
+            {
+                "cau_hoi": " Câu 7: Trong các câu sau câu nào là mệnh đề:",
+                "dap_an": [],
+                "dap_an_chinh_xac": [
+                    "D. Hà Nội là thủ đô của Việt Nam."
+                ]
+            },
+            {
+                "cau_hoi": " Câu 8: Câu nào dưới đây không phải là một mệnh đề?",
+                "dap_an": [],
+                "dap_an_chinh_xac": [
+                    "B. Có bao nhiêu số tự nhiên nhỏ hơn 5?"
+                ]
+            },
+            {
+                "cau_hoi": " Câu 9: Tìm mệnh đề đúng trong các câu sau đây?",
+                "dap_an": [],
+                "dap_an_chinh_xac": [
+                    "A. Tổng 1 + 2 + ... + 2022 chia hết cho 3"
+                ]
+            },
+            {
+                "cau_hoi": " Câu 10: Mệnh đề nào sau đây đúng?",
+                "dap_an": [],
+                "dap_an_chinh_xac": [
+                    "A. ∀ x∈ R,x^2-x+1>0"
+                ]
+            },
+            {
+                "cau_hoi": " Câu 11: Trong các câu sau, câu nào là mệnh đề?",
+                "dap_an": [],
+                "dap_an_chinh_xac": [
+                    "B. Trung Quốc là nước đông dân nhất thế giới."
+                ]
+            },
+            {
+                "cau_hoi": " Câu 12: Câu nào sau đây không là mệnh đề?",
+                "dap_an": [],
+                "dap_an_chinh_xac": [
+                    "A. x > 2;"
+                ]
+            },
+            {
+                "cau_hoi": " Câu 13: Phủ định của mệnh đề \"∃ x∈ R,5x-3x^2=1\" là:",
+                "dap_an": [],
+                "dap_an_chinh_xac": [
+                    "C. \"∀ x∈ R,5x-3x^2≠ 1\""
+                ]
+            },
+            {
+                "cau_hoi": " Câu 14: Trong các mệnh đề sau, mệnh đề nào sai?",
+                "dap_an": [],
+                "dap_an_chinh_xac": [
+                    "A. -π ^2<-2⇔π ^2<4"
+                ]
+            },
+            {
+                "cau_hoi": " Câu 15: Trong các câu sau, câu nào không phải là mệnh đề?",
+                "dap_an": [],
+                "dap_an_chinh_xac": [
+                    "A. Buồn ngủ quá!;"
+                ]
+            },
+            {
+                "cau_hoi": " Câu 16: Trong các mệnh đề sau, mệnh đề nào là mệnh đề đúng?",
+                "dap_an": [],
+                "dap_an_chinh_xac": [
+                    "D.Tích của hai số tự nhiên là một số lẻ khi và chỉ khi cả hai số đều là số lẻ"
+                ]
+            },
+            {
+                "cau_hoi": " Câu 17: Cho mệnh đề chứa biến P(x): \"x + 15 ≤ x^2\" với giá trị thực nào của x trong các giá trị sau P(x) là mệnh đề đúng",
+                "dap_an": [],
+                "dap_an_chinh_xac": [
+                    "D. x = 5."
+                ]
+            },
+            {
+                "cau_hoi": " Câu 18: Trong các mệnh đề sau, mệnh đề nào sai?",
+                "dap_an": [],
+                "dap_an_chinh_xac": [
+                    "D. Số 23 là hợp số"
+                ]
+            },
+            {
+                "cau_hoi": " Câu 19: Cho hai số a=√(10)+1,b=√(10)-1. Hãy chọn khẳng định đúng",
+                "dap_an": [],
+                "dap_an_chinh_xac": [
+                    "A. (a^2+b^2)∈N"
+                ]
+            },
+            {
+                "cau_hoi": " Câu 20: Mệnh đề ∀x∈R,x^2−2+a>0 với a là số thực cho trước. Tìm a để mệnh đề đúng",
+                "dap_an": [],
+                "dap_an_chinh_xac": [
+                    "D. a > 2"
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,152 @@
+2023-11-26 09:37:14 failed https://tieu0luan0tot0nghiep.000webhostapp.com/create_a_result.php  
+2023-11-26 09:37:14 Failed add result Trắc nghiệm Toán 10 kết nối học kì II  62 not avaiable
+2023-11-26 09:37:26 failed https://tieu0luan0tot0nghiep.000webhostapp.com/create_a_result.php  
+2023-11-26 09:37:26 Failed add result Trắc nghiệm Toán 10 kết nối học kì II  62 not avaiable
+2023-11-26 09:50:52 failed https://tieu0luan0tot0nghiep.000webhostapp.com/delete_a_exam.php  
+2023-11-26 09:50:52 failed https://tieu0luan0tot0nghiep.000webhostapp.com/create_a_exam.php  
+2023-11-26 09:51:06 failed https://tieu0luan0tot0nghiep.000webhostapp.com/delete_a_exam.php  
+2023-11-26 09:51:06 failed https://tieu0luan0tot0nghiep.000webhostapp.com/create_a_exam.php  
+2023-11-26 10:22:04 failed https://tieu0luan0tot0nghiep.000webhostapp.com/delete_a_exam.php  
+2023-11-26 10:22:06 failed https://tieu0luan0tot0nghiep.000webhostapp.com/create_a_exam.php  
+2023-11-26 10:22:06 failed_add_exam online Trắc nghiệm Toán 10 kết nối học kì II 
+2023-11-26 13:46:15 failed_deleted_exam at button bottom delete Trắc nghiệm Toán 10 kết nối học kì II  
+2023-11-26 13:49:44 failed_deleted_exam at button bottom delete bai thi mau 1 <br />
+<b>Fatal error</b>:  Uncaught mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`id21435239_id21316748_make_quize`.`dap_an_bai_thi_da_lam`, CONSTRAINT `dap_an_bai_thi_da_lam_ibfk_1` FOREIGN KEY (`cau_hoi_id`) REFERENCES `cau_hoi` (`id`)) in /storage/ssd1/239/21435239/public_html/delete_a_exam.php:47
+Stack trace:
+#0 /storage/ssd1/239/21435239/public_html/delete_a_exam.php(47): mysqli-&gt;query()
+#1 {main}
+  thrown in <b>/storage/ssd1/239/21435239/public_html/delete_a_exam.php</b> on line <b>47</b><br />
+
+2023-11-26 14:12:24 failed_deleted_exam at button bottom delete Trắc nghiệm Toán 10 kết nối học kì II  
+2023-11-26 14:34:34 failed_deleted_exam at button bottom delete bai thi 1 <br />
+<b>Warning</b>:  Undefined variable $loi in <b>/storage/ssd1/239/21435239/public_html/delete_a_exam.php</b> on line <b>50</b><br />
+
+2023-11-26 14:36:44 failed_deleted_exam at button bottom delete Trắc nghiệm Toán 10 kết nối học kì I  
+2023-11-26 14:37:23 failed_deleted_exam at button bottom delete Trắc nghiệm Toán 10 kết nối học kì III 
+2023-11-26 14:37:26 failed_deleted_exam at button bottom delete Trắc nghiệm Toán 10 kết nối học kì II  
+2023-11-26 14:37:30 failed_deleted_exam at button bottom delete Trắc nghiệm Toán 10 kết nối học kì V 
+2023-11-26 14:37:32 failed_deleted_exam at button bottom delete Trắc nghiệm Toán 10 kết nối học kì II  
+2023-11-26 14:46:15 'id' 
+2023-11-26 14:47:43 'id' 
+2023-11-26 14:50:37 <class 'KeyError'> 
+2023-11-26 14:50:41 failed_deleted_exam at button bottom delete Trắc nghiệm Toán 10 kết nối học kì II  
+2023-11-26 14:58:45 <class 'KeyError'> 'id' 
+2023-11-26 14:58:49 failed_deleted_exam at button bottom delete Trắc nghiệm Toán 10 kết nối học kì 100 
+2023-11-26 14:58:53 failed_deleted_exam at button bottom delete Trắc nghiệm Toán 10 kết nối học kì II  
+2023-11-26 14:59:02 failed_deleted_exam at button bottom delete Trắc nghiệm Toán 10 kết nối học kì II  
+2023-11-26 14:59:10 failed_deleted_exam at button bottom delete Trắc nghiệm Toán 10 kết nối học kì II  
+2023-11-26 14:59:18 failed_deleted_exam at button bottom delete Trắc nghiệm Toán 10 kết nối học kì II  
+2023-11-26 14:59:22 failed_deleted_exam at button bottom delete Trắc nghiệm Toán 10 kết nối học kì II  
+2023-11-26 15:59:22 <class 'KeyError'> 'id' 
+2023-11-26 15:59:46 <class 'KeyError'> 'id' 
+2023-11-26 17:05:08 Failed add result 83 Bài thi 3 <br />
+<b>Warning</b>:  Undefined array key "id" in <b>/storage/ssd1/239/21435239/public_html/create_a_result.php</b> on line <b>60</b><br />
+<br />
+<b>Fatal error</b>:  Uncaught mysqli_sql_exception: Incorrect integer value: '' for column `id21435239_id21316748_make_quize`.`dap_an_bai_thi_da_lam`.`cau_hoi_id` at row 1 in /storage/ssd1/239/21435239/public_html/create_a_result.php:66
+Stack trace:
+#0 /storage/ssd1/239/21435239/public_html/create_a_result.php(66): mysqli-&gt;query()
+#1 {main}
+  thrown in <b>/storage/ssd1/239/21435239/public_html/create_a_result.php</b> on line <b>66</b><br />
+2023-11-26 17:05:15 Failed add result 82 Bài thi 3 <br />
+<b>Warning</b>:  Undefined array key "id" in <b>/storage/ssd1/239/21435239/public_html/create_a_result.php</b> on line <b>60</b><br />
+<br />
+<b>Fatal error</b>:  Uncaught mysqli_sql_exception: Incorrect integer value: '' for column `id21435239_id21316748_make_quize`.`dap_an_bai_thi_da_lam`.`cau_hoi_id` at row 1 in /storage/ssd1/239/21435239/public_html/create_a_result.php:66
+Stack trace:
+#0 /storage/ssd1/239/21435239/public_html/create_a_result.php(66): mysqli-&gt;query()
+#1 {main}
+  thrown in <b>/storage/ssd1/239/21435239/public_html/create_a_result.php</b> on line <b>66</b><br />
+2023-11-26 17:05:50 Failed add result 81 Bài thi 3 <br />
+<b>Warning</b>:  Undefined array key "id" in <b>/storage/ssd1/239/21435239/public_html/create_a_result.php</b> on line <b>60</b><br />
+<br />
+<b>Warning</b>:  Undefined array key "id" in <b>/storage/ssd1/239/21435239/public_html/create_a_result.php</b> on line <b>60</b><br />
+completed
+2023-11-26 17:11:27 Failed add result 84 Bài thi 1 <br />
+<b>Warning</b>:  Undefined array key "id" in <b>/storage/ssd1/239/21435239/public_html/create_a_result.php</b> on line <b>60</b><br />
+<br />
+<b>Fatal error</b>:  Uncaught mysqli_sql_exception: Incorrect integer value: '' for column `id21435239_id21316748_make_quize`.`dap_an_bai_thi_da_lam`.`cau_hoi_id` at row 1 in /storage/ssd1/239/21435239/public_html/create_a_result.php:66
+Stack trace:
+#0 /storage/ssd1/239/21435239/public_html/create_a_result.php(66): mysqli-&gt;query()
+#1 {main}
+  thrown in <b>/storage/ssd1/239/21435239/public_html/create_a_result.php</b> on line <b>66</b><br />
+2023-11-27 01:54:05 Failed add result 84 Bài thi 1 <br />
+<b>Warning</b>:  Undefined array key "id" in <b>/storage/ssd1/239/21435239/public_html/create_a_result.php</b> on line <b>60</b><br />
+<br />
+<b>Warning</b>:  Undefined array key "id" in <b>/storage/ssd1/239/21435239/public_html/create_a_result.php</b> on line <b>60</b><br />
+completed
+2023-11-27 02:03:01 Failed add result 84 Bài thi 1 <br />
+<b>Warning</b>:  Undefined array key "id" in <b>/storage/ssd1/239/21435239/public_html/create_a_result.php</b> on line <b>60</b><br />
+<br />
+<b>Warning</b>:  Undefined array key "id" in <b>/storage/ssd1/239/21435239/public_html/create_a_result.php</b> on line <b>60</b><br />
+completed
+2023-11-27 02:03:46 Failed add result 84 Bài thi 1 <br />
+<b>Warning</b>:  Undefined array key "id" in <b>/storage/ssd1/239/21435239/public_html/create_a_result.php</b> on line <b>60</b><br />
+<br />
+<b>Warning</b>:  Undefined array key "id" in <b>/storage/ssd1/239/21435239/public_html/create_a_result.php</b> on line <b>60</b><br />
+completed
+2023-11-27 02:16:47 Failed add result 86 bai thi 2 <br />
+<b>Warning</b>:  Undefined array key "id" in <b>/storage/ssd1/239/21435239/public_html/create_a_result.php</b> on line <b>60</b><br />
+<br />
+<b>Warning</b>:  Undefined array key "id" in <b>/storage/ssd1/239/21435239/public_html/create_a_result.php</b> on line <b>60</b><br />
+completed
+2023-11-27 04:53:14 failed https://tieu0luan0tot0nghiep.000webhostapp.com/create_a_result.php  
+2023-11-27 04:53:14 Failed add result 85 bai thi 2 not available
+2023-11-27 04:59:08 <class 'KeyError'> 'id' 
+2023-11-27 04:59:17 failed https://tieu0luan0tot0nghiep.000webhostapp.com/delete_a_exam.php  
+2023-11-27 04:59:19 failed https://tieu0luan0tot0nghiep.000webhostapp.com/create_a_exam.php  
+2023-11-27 04:59:19 failed_add_exam online Trắc nghiệm tin học 9 bài 12: Thông tin đa phương tiện
+2023-11-27 05:12:53 <class 'KeyError'> 'id' 
+2023-11-27 05:14:23 <class 'KeyError'> 'id' 
+2023-11-27 05:14:23 <class 'KeyError'> 'id' 
+2023-11-27 05:15:26 failed https://tieu0luan0tot0nghiep.000webhostapp.com/create_a_exam.php  
+2023-11-27 05:15:31 <class 'KeyError'> 'id' 
+2023-11-27 05:16:14 <class 'KeyError'> 'id' 
+2023-11-27 05:16:20 Failed add result -1 Bài thi 1 Lỗi khi truy xuất thông tin user:
+2023-11-27 05:18:05 <class 'KeyError'> 'id' 
+2023-11-27 05:18:27 Failed add result 90 Trắc nghiệm Toán 10 kết nối học kì II  Lỗi khi truy xuất thông tin user:
+2023-11-27 05:22:17 <class 'KeyError'> 'id' 
+2023-11-27 05:22:28 Failed add result 91 Trắc nghiệm Toán 10 kết nối học kì II  Lỗi khi truy xuất thông tin user:
+2023-11-27 05:24:27 Failed add result 91 Trắc nghiệm Toán 10 kết nối học kì II  <br />
+<b>Warning</b>:  Undefined array key "id" in <b>/storage/ssd1/239/21435239/public_html/create_a_result.php</b> on line <b>60</b><br />
+<br />
+<b>Fatal error</b>:  Uncaught mysqli_sql_exception: Incorrect integer value: '' for column `id21435239_id21316748_make_quize`.`dap_an_bai_thi_da_lam`.`cau_hoi_id` at row 1 in /storage/ssd1/239/21435239/public_html/create_a_result.php:66
+Stack trace:
+#0 /storage/ssd1/239/21435239/public_html/create_a_result.php(66): mysqli-&gt;query()
+#1 {main}
+  thrown in <b>/storage/ssd1/239/21435239/public_html/create_a_result.php</b> on line <b>66</b><br />
+2023-11-27 05:24:36 <class 'KeyError'> 'id' 
+2023-11-27 05:39:17 <class 'KeyError'> 'id' 
+2023-11-27 05:39:24 Failed add result -1 Bài thi 1 <br />
+<b>Fatal error</b>:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`id21435239_id21316748_make_quize`.`bai_thi_da_lam`, CONSTRAINT `fk_bai_thi_da_lam_bai_thi` FOREIGN KEY (`bai_thi_id`) REFERENCES `bai_thi` (`id`)) in /storage/ssd1/239/21435239/public_html/create_a_result.php:56
+Stack trace:
+#0 /storage/ssd1/239/21435239/public_html/create_a_result.php(56): mysqli-&gt;query()
+#1 {main}
+  thrown in <b>/storage/ssd1/239/21435239/public_html/create_a_result.php</b> on line <b>56</b><br />
+2023-11-27 05:41:24 <class 'KeyError'> 'id' 
+2023-11-27 05:41:37 Failed add result -1 Bài thi 1 <br />
+<b>Fatal error</b>:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`id21435239_id21316748_make_quize`.`bai_thi_da_lam`, CONSTRAINT `fk_bai_thi_da_lam_bai_thi` FOREIGN KEY (`bai_thi_id`) REFERENCES `bai_thi` (`id`)) in /storage/ssd1/239/21435239/public_html/create_a_result.php:56
+Stack trace:
+#0 /storage/ssd1/239/21435239/public_html/create_a_result.php(56): mysqli-&gt;query()
+#1 {main}
+  thrown in <b>/storage/ssd1/239/21435239/public_html/create_a_result.php</b> on line <b>56</b><br />
+2023-11-27 07:08:13 lỗi load local exams  unhashable type: 'slice'
+2023-11-27 07:10:07 lỗi load local exams  unhashable type: 'slice'
+2023-11-27 07:11:09 lỗi load local exams  unhashable type: 'slice'
+2023-11-27 07:19:31 failed https://tieu0luan0tot0nghiep.000webhostapp.com/create_a_result.php  
+2023-11-27 07:19:31 Failed add result 92 Bài thi 1 not available
+2023-11-27 13:13:52 lỗi load result exams  
+2023-11-27 13:16:50 lỗi load result exams  
+2023-11-27 13:17:58 lỗi load result exams  
+2023-11-27 13:19:06 lỗi load result exams  
+2023-11-27 13:19:40 lỗi load result exams  
+2023-11-27 13:20:33 lỗi load result exams  
+2023-11-27 13:21:43 lỗi load result exams  
+2023-11-27 13:30:01 lỗi load result exams  
+2023-11-27 14:19:17 failed https://tieu0luan0tot0nghiep.000webhostapp.com/get_local_exams.php  
+2023-11-27 14:28:29 lỗi load local exams  
+2023-11-27 14:28:30 lỗi load result exams  3
+2023-11-27 14:28:54 lỗi load local exams  
+2023-11-27 14:28:55 lỗi load result exams  3
+2023-11-27 14:28:29 lỗi load local exams  
+2023-11-27 14:28:30 lỗi load result exams  3
+2023-11-27 14:28:54 lỗi load local exams  
+2023-11-27 14:28:55 lỗi load result exams  3

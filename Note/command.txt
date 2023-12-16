@@ -1,0 +1,52 @@
+ssh -i "ngotandat050220.pem" ec2-user@ec2-13-236-68-213.ap-southeast-2.compute.amazonaws.com
+
+gunicorn --bind 0.0.0.0:8000 rest_api_predict:app
+
+kill -9 4320
+
+# tìm tiến trình
+ps aux | grep 'gunicorn'
+
+# chỉnh sửa file
+sudo nano /etc/httpd/conf/httpd.conf
+
+# restart máy chủ
+sudo systemctl restart httpd
+
+# chuyển sang root
+sudo su -
+
+# xóa
+rm -rf tên_thư_mục
+
+& c:/Users/ngod2/kivy_venv/Scripts/Activate.ps1
+cd kivy_app
+py main.py -m screen:iphone5,portrait,scale=.7
+
+##MySQL
+ALTER TABLE bai_thi ADD COLUMN user_id INT(11), ADD FOREIGN KEY (user_id) REFERENCES users(id);
+
+## request python
+try:
+    url = f"https://tieu0luan0tot0nghiep.000webhostapp.com"
+    response = requests.get(url)
+    response.raise_for_status()  # Kiểm tra lỗi HTTP status code
+    print(response.json())
+except requests.exceptions.HTTPError as errh:
+    print(f"HTTP Error: {errh}")
+except requests.exceptions.ConnectionError as errc:
+    print(f"Error Connecting: {errc}")
+except requests.exceptions.Timeout as errt:
+    print(f"Timeout Error: {errt}")
+except requests.exceptions.RequestException as err:
+    print(f"Request Exception: {err}")
+
+# Remove duplicate values from an array:
+<?php
+$a=array("a"=>"red","b"=>"green","c"=>"red");
+
+## build app android using kivy
+buildozer -v android debug deploy run logcat > my_log.txt
+
+pip list
+where python

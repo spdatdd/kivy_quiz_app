@@ -1,0 +1,21 @@
+https://github.com/kivymd/KivyMD#how-to-fix-a-shader-bug-on-an-android-device
+
+Thao tác đồ họa nên thực hiện trên thread main -> schedule_one
+class kivy.uix.label.Label(**kwargs)¶
+Bases: kivy.uix.widget.Widget
+    Events:
+    on_ref_press
+    Fired when the user clicks on a word referenced with a [ref] tag in a text markup.
+
+-chưa có cơ chế lấy dữ liệu cục bộ từ server
+*crash khi đăng nhập offline
+-màn hình chỉnh sửa chữ bị nhỏ
+-khi đăng kí tài khoản mới thì dữ liệu tài khoản cũ vẫn còn
+-màn hình xem chi tiêt bài thi trên android không hoạt động
+-tạo bài thi không thêm được dấu tiếng việt
+*không load đầy đủ được danh sách bài thi đã làm 
+*tìm kiếm lỗi -> khi reload hiện danh sách trống
+
+# them vao buildozer.spec
+pip install https://github.com/kivy/kivy/archive/master.zip
+pip install https://github.com/kivymd/KivyMD/archive/master.zip
