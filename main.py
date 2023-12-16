@@ -1,7 +1,7 @@
 from libraries_needed import *
 from classes_needed import *
 
-class LoginApp(MDApp):
+class QuizApp(MDApp):
     # chỉ số danh sách
     eternal_start_idx = local_start_idx = 0
     eternal_end_idx = local_end_idx = 30
@@ -23,9 +23,9 @@ class LoginApp(MDApp):
     # kiểu bài thi được chọn
     type_exam = 'local'
 
-    def __init__ (self, **kwargs):
-        super().__init__(**kwargs)
-        self.screen = Builder.load_file('main.kv')
+    # def __init__ (self, **kwargs):
+    #     super().__init__(**kwargs)
+    #     self.screen = Builder.load_file('main.kv')
                
     def build (self):
         # giao diện ứng dụng
@@ -1268,5 +1268,7 @@ class LoginApp(MDApp):
         if valid: 
             self.login_regist_request('register.php', username, password)
 
-if __name__ == '__main__':
-    LoginApp().run()
+# if __name__ == '__main__':
+    # QuizApp().run()
+QuizApp().run()          
+
